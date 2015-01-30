@@ -35,3 +35,39 @@
    'lambda':
       'prefix': 'lambda'
       'body': 'λ$1'
+   'mu':
+      'prefix': 'mu'
+      'body': 'μ$1'
+   'nu':
+      'prefix': 'nu'
+      'body': 'ν$1'
+   'xi':
+      'prefix': 'xi'
+      'body': 'ξ$1'
+   'pi':
+      'prefix': 'pi'
+      'body': 'π$1'
+   'rho':
+      'prefix': 'rho'
+      'body': 'ρ$1'
+   'sigma':
+      'prefix': 'sigma'
+      'body': 'σ$1'
+   'tau':
+      'prefix': 'tau'
+      'body': 'τ$1'
+   'upsilon':
+      'prefix': 'upsilon'
+      'body': 'υ$1'
+   'phi':
+      'prefix': 'phi'
+      'body': 'ϕ$1'
+   'khi':
+      'prefix': 'khi'
+      'body': 'χ$1'
+   'psi':
+      'prefix': 'psi'
+      'body': 'ψ$1'
+   'omega':
+      'prefix': 'omega'
+      'body': 'ω$1'
