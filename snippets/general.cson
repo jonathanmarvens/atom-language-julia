@@ -1,0 +1,13 @@
+'.source.julia':
+  'Bang':
+    'prefix': '#!'
+    'body': """#! /usr/bin/env julia
+    $1"""
+   'Use':
+      'prefix': 'using'
+      'body': """using ${1:module}
+      $2"""
+   'Include':
+      'prefix': 'include'
+      'body': """include("${1:file}")
+      $2"""
